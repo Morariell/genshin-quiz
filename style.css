@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font-family: "Times New Roman", Times, serif;
+  border: 5px solid rgb(255, 255, 255);
+  border-color: rgb(240, 158, 172);
+  width: 600px;
+  margin: auto;
+  padding: 25px 40px;
+  color: rgb(228, 129, 146);
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+input[type="text"] {
+  width: 200px;
+  height: 20px;
+}
+
+hr {
+  border-color: rgb(240, 158, 172);
+}
+
+html {
+  background: url(img/pink.jpg) no-repeat center fixed;
+  background-size: cover;
+}
+span {
+  margin-left: 5px;
+}
